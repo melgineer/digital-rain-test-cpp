@@ -24,3 +24,4 @@ A bullet list:
 - iterators
 
 You can add an impage that has been uploaded to the repository in a /docs/assets/images folder.
+<img src="https://raw.githubusercontent.com/melgineer/digital-rain-test-cpp/main/docs/assets/images/DigitalRainDev1.png" width="100" height="100">
